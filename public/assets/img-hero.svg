@@ -1,0 +1,7 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="500" rx="32" fill="#fee2e2"/>
+  <circle cx="200" cy="200" r="80" fill="#ef4444" opacity="0.3"/>
+  <circle cx="200" cy="200" r="50" fill="#ef4444" opacity="0.5"/>
+  <text x="200" y="210" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ef4444" text-anchor="middle">Vodason</text>
+</svg>
+
